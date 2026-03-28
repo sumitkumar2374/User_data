@@ -90,8 +90,13 @@ Feel free to connect and give feedback!
 
 ---
 
+## 
+
 ## 💡 Inspiration
 
 This project is part of my journey to become a better developer 🚀
 
 ---
+
+## 👨‍💻 Author
+**Sumit Kumar** 
