@@ -1,9 +1,3 @@
-# Here are the commit list for contribution graph 
-
-- 1st/2nd commit
-- 3rd commit list is attaching some files in main
-- 4th commmit list is preview check in user data and fix 
-
 # 📝 User Details Collection Form
 
 ## 🚀 Overview
