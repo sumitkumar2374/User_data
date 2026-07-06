@@ -1,6 +1,7 @@
 # Here are the commit list for contribution graph
 
-- 1st/2nd commit list is attaching some important file in user data  
+- 1st/2nd commit list is attaching some important file in user data
+- 3rd commit list is the final preview 
 
 # 📝 User Details Collection Form
 
