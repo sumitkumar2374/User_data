@@ -1,7 +1,8 @@
 # Here is the commit list for contribution 
 
 - 1st/2nd commit list is the initial
-- 2nd commit list is the attaching some imp file 
+- 2nd commit list is the attaching some imp file
+- 3rd/4th or 5th commit list is the check and preview 
 
 # 📝 User Details Collection Form
 
