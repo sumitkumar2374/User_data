@@ -1,5 +1,7 @@
 # Here is the commit list for contribution 
 
+- 1st/2nd commit list is the initial 
+
 # 📝 User Details Collection Form
 
 ## 🚀 Overview
