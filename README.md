@@ -2,7 +2,8 @@
 
 - 1st/2nd commit list is the initial
 - 2nd commit list is the attaching some imp file
-- 3rd/4th or 5th commit list is the check and preview 
+- 3rd/4th or 5th commit list is the check and preview
+- 6th commit list is the last changes 
 
 # 📝 User Details Collection Form
 
