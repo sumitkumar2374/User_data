@@ -1,6 +1,7 @@
 # Here is the commit list for contribution 
 
-- 1st/2nd commit list is the initial 
+- 1st/2nd commit list is the initial
+- 2nd commit list is the attaching some imp file 
 
 # 📝 User Details Collection Form
 
